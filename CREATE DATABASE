@@ -1,0 +1,6 @@
+Create new database in Windows
+
+1.- Open psql
+2.- Crearte users
+3.- Create permissions
+4.- With the command CREATE DATABASE nombre_base_de_datos; we can create a database
